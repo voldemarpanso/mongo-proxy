@@ -1,4 +1,5 @@
-#To pop print messages
+#!/usr/bin/env python
+
 import redis
 import time
 
